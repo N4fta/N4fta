@@ -3,6 +3,9 @@
 
 Still a work in progress... will probably stay this way until I actually have active projects to show. For now my Github is mainly a repository of projects made outside Github XD.
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <img src="https://github-readme-stats.vercel.app/api?username=n4fta&show_icons=true&theme=tokyonight" alt="N4fta's GitHub stats"  style="box-shadow: 3px 3px 3px #565f89"/>
 
 <!---
@@ -11,6 +14,8 @@ Still a work in progress... will probably stay this way until I actually have ac
     those awesome effects and it looks awesome so I'm keeping them.
     Have a good day snooping around!
 --->
+
+> **Credits**: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) was made by [anuraghazra](https://github.com/athul/), check their awesome project out! [waka-readme](https://github.com/athul/waka-readme?tab=readme-ov-file) was made by [Athul](https://github.com/athul/), check their awesome project out too!
 
 <hr style="height:2px;background-color:#7aa2f7;box-shadow: 3px 3px 3px #565f89">
 
@@ -41,8 +46,3 @@ University Projects:
 - [RSS Hamster](https://github.com/N4fta/RSS-Hamster)
 - [Zoo Baazar](https://github.com/N4fta/ZooBaazar)
 - [Mario & Luigi's Pizzaria](https://github.com/N4fta/Mario-Luigis-Pizzaria)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-> **Credits**: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) was made by [anuraghazra](https://github.com/athul/), check their awesome project out! [waka-readme](https://github.com/athul/waka-readme?tab=readme-ov-file) was made by [Athul](https://github.com/athul/), check their awesome project out too!
