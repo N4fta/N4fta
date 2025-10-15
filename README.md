@@ -2,16 +2,17 @@
 
 <hr style="height:2px;background-color:#7aa2f7;box-shadow: 3px 3px 3px #565f89">
 
-
-
-<div href="https://github.com/anuraghazra/github-readme-stats" target=_blank>
-
 <img src="https://github-readme-stats.vercel.app/api?username=n4fta&show_icons=true&theme=tokyonight" alt="N4fta's GitHub stats"  style="box-shadow: 3px 3px 3px #565f89"/>
-
-</div>
+> Credit: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) was made by [anuraghazra](https://github.com/athul/), check their awesome project out!
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+> Credit: [waka-readme](https://github.com/athul/waka-readme?tab=readme-ov-file) was made by [Athul](https://github.com/athul/), check their awesome project out too!
 
-[^Credit]: [waka-readme](https://github.com/athul/waka-readme?tab=readme-ov-file) was made by [Athul](https://github.com/athul/), check their awesome project out!
-[^Theme]: Based on the [Tokyo Night](https://github.com/tokyo-night) colours
+<!-- Horizontal short Menu (w\ Links) -->
+<p align="center">
+  <a href="">Personal Website</a> •
+  <a href=""></a>
+</p>
+
+> Theme: Based on the [Tokyo Night](https://github.com/tokyo-night) colours
