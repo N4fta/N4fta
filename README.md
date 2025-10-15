@@ -4,9 +4,9 @@
 
 
 
-<div>
+<div href="https://github.com/anuraghazra/github-readme-stats" target=_blank>
 
-<img src="https://github-readme-stats.vercel.app/api?username=n4fta&show_icons=true&theme=tokyonight" alt="N4fta's GitHub stats" href="https://github.com/anuraghazra/github-readme-stats" style="box-shadow: 3px 3px 3px #565f89"/>
+<img src="https://github-readme-stats.vercel.app/api?username=n4fta&show_icons=true&theme=tokyonight" alt="N4fta's GitHub stats"  style="box-shadow: 3px 3px 3px #565f89"/>
 
 </div>
 
