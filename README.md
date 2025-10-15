@@ -4,6 +4,18 @@
 Still a work in progress... will probably stay this way until I actually have active projects to show. For now my Github is mainly a repository of projects made outside Github XD.
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 23 September 2024 - To: 15 October 2025
+
+Total Time: 244 hrs
+
+JavaScript           81 hrs 17 mins  ████████▒░░░░░░░░░░░░░░░░   33.16 %
+Java                 76 hrs 10 mins  ███████▓░░░░░░░░░░░░░░░░░   31.07 %
+Markdown             12 hrs 46 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+Python               8 hrs 30 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+```
+
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-stats.vercel.app/api?username=n4fta&show_icons=true&theme=tokyonight" alt="N4fta's GitHub stats"  style="box-shadow: 3px 3px 3px #565f89"/>
