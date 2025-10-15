@@ -28,21 +28,23 @@ Python               8 hrs 30 mins   █░░░░░░░░░░░░░�
     Have a good day snooping around!
 --->
 
-> **Credits**: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) was made by [anuraghazra](https://github.com/athul/), check their awesome project out! [waka-readme](https://github.com/athul/waka-readme?tab=readme-ov-file) was made by [Athul](https://github.com/athul/), check their awesome project out too!
+> **Credits**: <br> 
+> - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) was made by [anuraghazra](https://github.com/athul/), check their awesome project out! <br>
+> - [waka-readme](https://github.com/athul/waka-readme?tab=readme-ov-file) was made by [Athul](https://github.com/athul/), check their awesome project out too!
 
 <hr style="height:2px;background-color:#7aa2f7;box-shadow: 3px 3px 3px #565f89">
 
-### Projects & Interests
+### Projects
 Wayy too many, here are some CS related ones:
 - My personal [website](https://neo-dev.org)
 - Self-hosting some services on a Rasberry Pi 4
-- Finally switched to linux on my home desktop ([Omarchy](https://github.com/basecamp/omarchy)). Started with Omarchy so I didn't have to configure everything; configured evertyhing anyways XD
-- Learning VIM motions through the Vim VS Code [extension](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim), check it out, it's awesome
+- Finally switched to linux on my home desktop ([Omarchy](https://github.com/basecamp/omarchy)). Started with Omarchy so I didn't have to configure everything; configured everything anyways ദ്ദി˙ ᴗ ˙ )
+- Learning VIM motions through the Vim VS Code [extension](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim); check it out, it's awesome
 - Modding games - currently testing neoforge out, and disappointed I have to use windows to try modding Bg3
 
-### Experience
+#### Experience
 
-*Currently a 3rd year Software student at Fontys University, Eindhoven*
+Currently a 3rd year Software student at Fontys University, Eindhoven
 
 Personal Projects:
 
@@ -59,3 +61,16 @@ University Projects:
 - [RSS Hamster](https://github.com/N4fta/RSS-Hamster)
 - [Zoo Baazar](https://github.com/N4fta/ZooBaazar)
 - [Mario & Luigi's Pizzaria](https://github.com/N4fta/Mario-Luigis-Pizzaria)
+
+<hr style="height:2px;background-color:#7aa2f7;box-shadow: 3px 3px 3px #565f89">
+
+### Interests
+
+**Learning:** Coding (it never stops... (╥﹏╥) ), Japanese, Lua, Drawabox  <br> 
+**Hobbies:** Archery, Karaoke (private cause im shy (¬_¬) ), Drawing, Self-hosting, Travelling  <br> 
+**Games:** Bg3, Modded MC, Ghost of Tsushima, Horizon Series, Frostpunk, Hogwarts Legacy, Hollow Knight, Stardew, GTFO, Slay the Princess,...  <br> 
+**Nintendo:** Super Smash Bros, Rhythm Heaven, Sports, Pokemon, Super Mario,...  <br> 
+**Socials:** sike, im kinda done with those. fck reels and addictive media. people should learn to put morals bf profit again ¯\\\_(ツ)\_/¯ <br> 
+[**Music Playlists on Spotify**]()
+
+Oh right, I'm Portuguese 🇵🇹. Born in Brussels 🇧🇪. Speak English 🇬🇧. (& portuguese & french)
