@@ -6,4 +6,4 @@
 <!--END_SECTION:waka-->
 
 Credits:
-- waka-readme was made by [Athul](https://github.com/athul/waka-readme?tab=readme-ov-file), check their awesome project out!
+- [waka-readme](https://github.com/athul/waka-readme?tab=readme-ov-file) was made by [Athul](https://github.com/athul/), check their awesome project out!
