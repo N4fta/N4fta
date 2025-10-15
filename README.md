@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hello, World! 🌎 I'm NeoDev 👋
+
+![N4fta's GitHub stats](https://github-readme-stats.vercel.app/api?username=n4fta&show_icons=true&theme=tokyonight)
 
 <!--
 **N4fta/N4fta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
