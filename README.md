@@ -3,7 +3,8 @@
 
 Still a work in progress... will probably stay this way until I actually have active projects to show. For now my Github is mainly a repository of projects made outside Github XD.
 
-<img src="https://github-readme-stats.vercel.app/api?username=n4fta&show_icons=true&theme=tokyonight" alt="N4fta's GitHub stats"  style="box-shadow: 3px 3px 3px #565f89"/>
+<!---<img src="https://github-readme-stats.vercel.app/api?username=n4fta&show_icons=true&theme=tokyonight" alt="N4fta's GitHub stats"  style="box-shadow: 3px 3px 3px #565f89"/>
+Commenting this out cause the stats make me sad ;( --->
 
 <!--START_SECTION:waka-->
 
