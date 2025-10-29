@@ -9,7 +9,7 @@ Commenting this out cause the stats make me sad ;( --->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 September 2024 - To: 26 October 2025
+From: 23 September 2024 - To: 27 October 2025
 
 Total Time: 246 hrs 37 mins
 
