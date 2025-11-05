@@ -37,14 +37,6 @@ export default function Home() {
               university&apos;s private GitLab instance and joined together
               (Frontend + Backend) so their commit history is lost.
             </li>
-            <li>
-              My{" "}
-              <a href="https://www.linkedin.com/in/nunocdias/" target="_blank">
-                <strong>LinkedIn&apos;s</strong>
-              </a>{" "}
-              for more professionalism and a timeline of events related to my
-              education and experience
-            </li>
 
             <li>
               My{" "}
@@ -64,7 +56,7 @@ export default function Home() {
               because why not, talk to me about music if you want
             </li>
           </ul>
-          Or simply contact me through my email:
+          Or simply contact me through my email: contact@neo-dev.org
         </p>
       </div>
       <div className="h-6" />
