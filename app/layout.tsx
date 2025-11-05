@@ -9,11 +9,6 @@ const links: FooterLink[] = [
     alt: "Github Logo",
   },
   {
-    link: "https://www.linkedin.com/in/nunocdias/",
-    imageSrc: "/links/linkedin-white.svg",
-    alt: "LinkedIn Logo",
-  },
-  {
     link: "https://hub.docker.com/u/n4fta",
     imageSrc: "/links/docker-white.svg",
     alt: "Docker Logo",
