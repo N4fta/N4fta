@@ -84,18 +84,7 @@ Currently there is another branch for a 3js website project. A website with 3D e
 
 ### To Do main
 
-- [ ] Design NeoDev Avatar
-- [ ] Add Logo (Avatar)
-- [ ] Dark/Light mode
 - [ ] Preview of Projects through a Github fetch (dynamic)
-- [ ] Add professional email
-- [ ] Contact Form
-- [ ] Interactivity, a game or puzzle
-- [ ] Sound effects
-- [ ] Change Background
-- [ ] Blog posts (Cyber)
-- [ ] Choose a font
-- [ ] Create endpoint to check if neo-dev is up, make a badge
 
 ### To Do 3js
 
