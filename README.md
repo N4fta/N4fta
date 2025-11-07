@@ -16,9 +16,11 @@ Commenting this out cause the stats make me sad ;( --->
     Have a good day snooping around!
 --->
 
+<!--
 > **Credits**: <br> 
 > - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) was made by [anuraghazra](https://github.com/athul/), check their awesome project out! <br>
 > - [waka-readme](https://github.com/athul/waka-readme?tab=readme-ov-file) was made by [Athul](https://github.com/athul/), check their awesome project out too!
+-->
 
 <hr style="height:2px;background-color:#7aa2f7;box-shadow: 3px 3px 3px #565f89">
 
