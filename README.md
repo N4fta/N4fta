@@ -7,18 +7,6 @@ Still a work in progress... will probably stay this way until I actually have ac
 Commenting this out cause the stats make me sad ;( --->
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 23 September 2024 - To: 05 November 2025
-
-Total Time: 247 hrs 42 mins
-
-JavaScript           81 hrs 17 mins  ████████░░░░░░░░░░░░░░░░░   32.66 %
-Java                 76 hrs 10 mins  ███████▓░░░░░░░░░░░░░░░░░   30.61 %
-Markdown             13 hrs 42 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-Python               8 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-```
-
 <!--END_SECTION:waka-->
 
 <!---
