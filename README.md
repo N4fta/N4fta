@@ -27,9 +27,8 @@ Commenting this out cause the stats make me sad ;( --->
 ### Projects
 Wayy too many, here are some CS related ones:
 - My personal [website](https://neo-dev.org)
-- Self-hosting some services on a Rasberry Pi 4
+- Self-hosting some services on a mini pc
 - Finally switched to linux on my home desktop ([Omarchy](https://github.com/basecamp/omarchy)). Started with Omarchy so I didn't have to configure everything; configured everything anyways ദ്ദി˙ ᴗ ˙ )
-- Learning VIM motions through the Vim VS Code [extension](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim); check it out, it's awesome
 - Modding games - currently testing neoforge out, and disappointed I have to use windows to try modding Bg3
 
 #### Experience
