@@ -57,7 +57,7 @@ University Projects:
 ### Interests
 
 **Learning:** Coding (it never stops... (╥﹏╥) ), Japanese, Lua, Drawabox  <br> 
-**Hobbies:** Archery, Karaoke (private cause im shy (¬_¬) ), Drawing, Self-hosting, Travelling  <br> 
+**Hobbies:** Archery, Karaoke (private rooms only cause im shy (¬_¬) ), Drawing, Self-hosting, Travelling  <br> 
 **Games:** Bg3, Modded MC, Ghost of Tsushima, Horizon Series, Frostpunk, Hogwarts Legacy, Hollow Knight, Stardew, GTFO, Slay the Princess,...  <br> 
 **Nintendo:** Super Smash Bros, Rhythm Heaven, Sports, Pokemon, Super Mario,...  <br> 
 **Socials:** sike, im kinda done with those. fck reels and addictive media. people should learn to put morals bf profit again ¯\\\_(ツ)\_/¯ <br> 
