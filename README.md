@@ -8,13 +8,13 @@
 
 <h4 align="center">My personal <a href="https://neo-dev.org" target="_blank">website</a>.</h4>
 
-<!-- Badges -->
+<!-- Badges
 <p align="center">
     <img src="https://badgen.net/github/commits/N4fta/neo-dev.org"
          alt="commits">
     <img src="https://badgen.net/github/last-commit/N4fta/neo-dev.org"
     alt="last commit">
-</p>
+</p> -->
 
 <!-- Horizontal short Menu (w\ Links) -->
 <p align="center">
