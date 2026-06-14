@@ -37,9 +37,9 @@ Currently a 3rd year Software student at Fontys University, Eindhoven
 
 Personal Projects:
 
-- [Personal Website](https://github.com/N4fta/neo-dev.org)
-- [LofiPomodoro](https://github.com/N4fta/Lofi-Pomodoro)
-- [Tester Minecraft Mod](https://github.com/N4fta/Banana-Sushi)
+- [Personal Website](https://git.neo-dev.org/University/neo-dev.org)
+- [LofiPomodoro](https://git.neo-dev.org/University/Lofi-Pomodoro)
+- [Tester Minecraft Mod](https://git.neo-dev.org/NeoDev/Banana-Sushi)
 
 Internships:
 - Developer at SPF Finance, Belgium
