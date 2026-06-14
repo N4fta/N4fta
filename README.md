@@ -49,7 +49,7 @@ University Projects:
 - [BAS World Dashboard](https://git.neo-dev.org/University/BAS-World-Dashboard)
 - [RSS Hamster](https://git.neo-dev.org/University/RSS-Hamster)
 - [Zoo Baazar](https://git.neo-dev.org/University/ZooBaazar)
-- [Mario & Luigi's Pizzaria]https://git.neo-dev.org/University/Mario-Luigis-Pizzaria)
+- [Mario & Luigi's Pizzaria](https://git.neo-dev.org/University/Mario-Luigis-Pizzaria)
 
 <hr style="height:2px;background-color:#7aa2f7;box-shadow: 3px 3px 3px #565f89">
 
