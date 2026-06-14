@@ -37,19 +37,19 @@ Currently a 3rd year Software student at Fontys University, Eindhoven
 
 Personal Projects:
 
-- [Personal Website](https://git.neo-dev.org/University/neo-dev.org)
-- [LofiPomodoro](https://git.neo-dev.org/University/Lofi-Pomodoro)
+- [Personal Website](https://git.neo-dev.org/NeoDev/neo-dev.org)
+- [LofiPomodoro](https://git.neo-dev.org/NeoDev/Lofi-Pomodoro)
 - [Tester Minecraft Mod](https://git.neo-dev.org/NeoDev/Banana-Sushi)
 
 Internships:
 - Developer at SPF Finance, Belgium
 
 University Projects:
-- [VibeCheck](https://github.com/N4fta/VibeCheck)
-- [BAS World Dashboard](https://github.com/N4fta/BAS-World-Dashboard)
-- [RSS Hamster](https://github.com/N4fta/RSS-Hamster)
-- [Zoo Baazar](https://github.com/N4fta/ZooBaazar)
-- [Mario & Luigi's Pizzaria](https://github.com/N4fta/Mario-Luigis-Pizzaria)
+- [VibeCheck](https://git.neo-dev.org/University/VibeCheck)
+- [BAS World Dashboard](https://git.neo-dev.org/University/BAS-World-Dashboard)
+- [RSS Hamster](https://git.neo-dev.org/University/RSS-Hamster)
+- [Zoo Baazar](https://git.neo-dev.org/University/ZooBaazar)
+- [Mario & Luigi's Pizzaria]https://git.neo-dev.org/University/Mario-Luigis-Pizzaria)
 
 <hr style="height:2px;background-color:#7aa2f7;box-shadow: 3px 3px 3px #565f89">
 
@@ -60,6 +60,6 @@ University Projects:
 **Games:** Bg3, Modded MC, Ghost of Tsushima, Horizon Series, Frostpunk, Hogwarts Legacy, Hollow Knight, Stardew, GTFO, Slay the Princess,...  <br> 
 **Nintendo:** Super Smash Bros, Rhythm Heaven, Sports, Pokemon, Super Mario,...  <br> 
 **Socials:** sike, im kinda done with those. fck reels and addictive media. people should learn to put morals bf profit again ¯\\\_(ツ)\_/¯ <br> 
-[**Music Playlists on Spotify**]()
+[**Music Playlists on Spotify**](https://open.spotify.com/user/z20cuq7qcix1zz2xzlxg6egzl)
 
 Oh right, I'm Portuguese 🇵🇹. Born in Brussels 🇧🇪. Speak English 🇬🇧. (& portuguese & french)
