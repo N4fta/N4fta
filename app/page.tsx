@@ -29,10 +29,10 @@ export default function Home() {
           <ul className="pl-5 pb-1">
             <li>
               My{" "}
-              <a href="https://github.com/N4fta" target="_blank">
-                <strong>Github</strong>
+              <a href="https://git.neo-dev.org/NeoDev" target="_blank">
+                <strong>Gitea</strong>
               </a>{" "}
-              to to see my previous projects.
+              instance to to see my previous projects.
               <br></br> Note that some of them were ported from my
               university&apos;s private GitLab instance and joined together
               (Frontend + Backend) so their commit history is lost.
